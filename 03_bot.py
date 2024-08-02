@@ -63,3 +63,5 @@ while True:
 
         # Step 7: Press Enter
         pyautogui.press('enter')
+
+  #That's it...
