@@ -15,7 +15,6 @@ def is_last_message_from_sender(chat_log, sender_name="Rohan Das"):
     return False
     
     
-
     # Step 1: Click on the chrome icon at coordinates (1639, 1412)
 pyautogui.click(1639, 1412)
 
